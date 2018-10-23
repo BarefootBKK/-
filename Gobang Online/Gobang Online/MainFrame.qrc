@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="/new/prefix1">
+    <file>../Image/Background/消息提示背景.jpg</file>
+    <file>../Image/Background/消息提示背景.jpg</file>
+    <file>../Image/Background/a63a3b601c8308643ad54329ed253d5c.jpg</file>
+    <file>../Image/Background/亮色界面.jpg</file>
+    <file>../Image/Background/setRoom.jpg</file>
+    <file>../Image/Background/2_副本.jpg</file>
+    <file>../Image/Button/150.50.jpg</file>
+    <file>../Image/Icon/图标.jpg</file>
+    <file>../Image/Button/200.50.4。副本.jpg</file>
+    <file>../Image/Background/Main2.jpg</file>
+  </qresource>
+</RCC>

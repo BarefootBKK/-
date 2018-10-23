@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="/Gobang">
+    <file>Music/menu_bgm.mp3</file>
+    <file>Images/Hint/提示.png</file>
+    <file>Images/Hint/提示_小.png</file>
+    <file>Images/SplashScreen/startIcon.png</file>
+    <file>../Image/Button/100.40.jpg</file>
+    <file>../Image/Chess/mark4.png</file>
+    <file>../Image/help/1.JPG</file>
+    <file>../Image/help/2.JPG</file>
+    <file>../Image/help/3.JPG</file>
+    <file>../Image/Icon/图标.jpg</file>
+    <file>../Image/Background/check.jpg</file>
+    <file>../Image/Button/150.50.jpg</file>
+    <file>../Image/Chess/mark.png</file>
+    <file>../Image/Background/Gme1.jpg</file>
+    <file>../Image/Chess/black_chess.png</file>
+    <file>../Image/Chess/white_chess.png</file>
+  </qresource>
+</RCC>

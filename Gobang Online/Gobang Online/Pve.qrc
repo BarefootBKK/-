@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/new/prefix1">
+    <file>../Image/Icon/图标.jpg</file>
+    <file>../Image/Button/150.50.jpg</file>
+    <file>../Image/Background/Gme1.jpg</file>
+    <file>../Image/Background/check.jpg</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="/new/prefix1">
+    <file>../Image/Background/wait_副本.jpg</file>
+    <file>Images/Hint/提示_小.png</file>
+    <file>../Image/Background/Main2.jpg</file>
+    <file>../Image/Button/150.50.jpg</file>
+    <file>../Image/Icon/图标.jpg</file>
+    <file>../Image/Background/亮色界面.jpg</file>
+  </qresource>
+</RCC>
