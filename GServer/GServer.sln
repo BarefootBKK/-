@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GServer", "GServer\GServer.vcxproj", "{B12702AD-ABFB-343A-A199-8E24837244A3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GClient", "..\VS 2017--projects\GClient\GClient\GClient.vcxproj", "{F1101F7B-3F86-474B-97FE-E2A320DFC42C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B12702AD-ABFB-343A-A199-8E24837244A3}.Debug|x64.ActiveCfg = Debug|x64
+		{B12702AD-ABFB-343A-A199-8E24837244A3}.Debug|x64.Build.0 = Debug|x64
+		{B12702AD-ABFB-343A-A199-8E24837244A3}.Release|x64.ActiveCfg = Release|x64
+		{B12702AD-ABFB-343A-A199-8E24837244A3}.Release|x64.Build.0 = Release|x64
+		{F1101F7B-3F86-474B-97FE-E2A320DFC42C}.Debug|x64.ActiveCfg = Debug|x64
+		{F1101F7B-3F86-474B-97FE-E2A320DFC42C}.Debug|x64.Build.0 = Debug|x64
+		{F1101F7B-3F86-474B-97FE-E2A320DFC42C}.Release|x64.ActiveCfg = Release|x64
+		{F1101F7B-3F86-474B-97FE-E2A320DFC42C}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C716D8F8-985A-4179-918C-9CBB6BAA3FAF}
+	EndGlobalSection
+EndGlobal
